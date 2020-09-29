@@ -1,0 +1,15 @@
+面向对象程序设计 作业
+
+
+2020年9月29日19:37:27
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+cout<<"i love oop programming"<<endl;
+
+
+return 0;
+}
