@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 面向对象程序设计 作业
 
 
@@ -12,4 +13,20 @@ cout<<"i love oop programming"<<endl;
 
 
 return 0;
+=======
+面向对象程序设计 作业
+
+
+2020年9月29日19:37:27
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+cout<<"i love oop programming"<<endl;
+
+
+return 0;
+>>>>>>> 40c63444d377b5c139df64b107c75135c2ad7548
 }
